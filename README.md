@@ -1,3 +1,14 @@
+# React Base
+
+Base for React resources.
+
+Each resource has its own repository inside this one.
+
+Resource folders are inclued inside .gitignore
+
+* utils (react-utils repo)
+* state (react-state)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
